@@ -112,7 +112,7 @@ Across all 4 factories and 9–10 job roles each, the majority of senior roles (
 
 ## 🏆 Certificate   
 
-This simulation was completed as part of the **Deloitte Australia Data Analytics Job Simulation** on the Forage platform.   
+This simulation was completed as part of the **Deloitte Australia - Data Analytics Job Simulation** on the Forage platform.   
 
 ---
 
