@@ -21,11 +21,13 @@ A virtual job simulation completed on Deloitte Australia's program, covering two
 
 | File | Description |
 |------|-------------|
-| `daikibo-telemetry-data.json` | Raw telemetry data from 4 Daikibo factories |
+| `daikibo-telemetry-data.json` | ⚠️ Not included — file size is 59 MB, exceeding GitHub's 25 MB limit. Original data provided by Deloitte Australia via the Forage simulation program. |
 | `Deloitte_Simulation_-_Tableau_File.twb` | Tableau workbook with both dashboard sheets |
 | `Task_5_Equality_Table.xlsx` | Completed equality classification table |
 | `Dashboard.png` | Screenshot of the final Tableau dashboard |
 | `Equality_Table_Screenshot.png` | Screenshot of the completed equality table |
+
+> **Note:** The raw telemetry JSON file cannot be uploaded due to GitHub's 25 MB file size limit. The Tableau workbook and all deliverable files are included. Dashboard screenshots are provided as visual proof of the completed analysis.   
 
 ---
 
