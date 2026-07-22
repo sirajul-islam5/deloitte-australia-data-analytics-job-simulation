@@ -1,10 +1,10 @@
-# 📊 Deloitte Australia — Data Analytics Job Simulation   
+# Deloitte Australia — Data Analytics Job Simulation   
 
 A virtual job simulation completed on Deloitte Australia's program, covering two real-world data analytics tasks: building an interactive Tableau dashboard to analyze factory machine downtime, and classifying gender pay equality scores across job roles using Excel formula logic.   
 
 ---
 
-## 📌 Simulation Overview   
+## Simulation Overview   
 
 | Detail | Info |
 |--------|------|
@@ -13,15 +13,15 @@ A virtual job simulation completed on Deloitte Australia's program, covering two
 | Difficulty | Intermediate |
 | Tasks Completed | 2 |
 | Tools Used | Tableau, Excel |
-| Status | ✅ Completed — Certificate Earned |
+| Status | Completed — Certificate Earned |
 
 ---
 
-## 📁 Files in This Repository   
+## Files in This Repository   
 
 | File | Description |
 |------|-------------|
-| `daikibo-telemetry-data.json` | ⚠️ Not included — file size is 59 MB, exceeding GitHub's 25 MB limit. Original data provided by Deloitte Australia via the Forage simulation program. |
+| `daikibo-telemetry-data.json` | Not included — file size is 59 MB, exceeding GitHub's 25 MB limit. Original data provided by Deloitte Australia via the Forage simulation program. |
 | `Deloitte_Simulation_-_Tableau_File.twb` | Tableau workbook with both dashboard sheets |
 | `Task_5_Equality_Table.xlsx` | Completed equality classification table |
 | `Dashboard.png` | Screenshot of the final Tableau dashboard |
@@ -31,7 +31,7 @@ A virtual job simulation completed on Deloitte Australia's program, covering two
 
 ---
 
-## 🏭 Task One — Data Analysis (Tableau)   
+## Task One — Data Analysis (Tableau)   
 
 ### Background   
 Client Daikibo Industrials operates 4 factories globally:    
@@ -60,7 +60,7 @@ Within Seiko, **LaserWelder** was the most frequently broken device type — dom
 
 ---
 
-## ⚖️ Task Two — Forensic Technology (Excel)   
+## Task Two — Forensic Technology (Excel)   
 
 ### Background   
 Following internal complaints about gender inequality in salary, Daikibo Industrials asked Deloitte's Forensic Tech team to investigate. An algorithm was built to quantify a **"level of gender pay equality"** score for each job role across all factory locations.   
@@ -71,9 +71,9 @@ The score is an integer ranging from **-100 to +100**, where **0 is ideal**. My 
 
 | Equality Score Range | Equality Class |
 |----------------------|----------------|
-| -10 to +10 | 🟢 Fair |
-| -20 to -11 OR +11 to +20 | 🟡 Unfair |
-| Below -20 OR Above +20 | 🔴 Highly Discriminative |
+| -10 to +10 | Fair |
+| -20 to -11 OR +11 to +20 | Unfair |
+| Below -20 OR Above +20 | Highly Discriminative |
 
 **Examples from the task brief:**   
 - 10 → Fair   
@@ -92,7 +92,7 @@ Across all 4 factories and 9–10 job roles each, the majority of senior roles (
 
 ---
 
-## 🛠️ Tools Used   
+## Tools Used   
 
 | Tool | Purpose |
 |------|---------|
@@ -102,7 +102,7 @@ Across all 4 factories and 9–10 job roles each, the majority of senior roles (
 
 ---
 
-## 💡 Key Learnings   
+## Key Learnings   
 
 - How to import and parse a real-world JSON telemetry dataset in Tableau and handle schema-level data correctly   
 - Creating calculated measure fields in Tableau to convert raw status flags into quantifiable downtime values   
@@ -112,21 +112,21 @@ Across all 4 factories and 9–10 job roles each, the majority of senior roles (
 
 ---
 
-## 🏆 Certificate   
+## Certificate   
 
 This simulation was completed as part of the **Deloitte Australia - Data Analytics Job Simulation** on the Forage platform.   
 
 ---
 
-## 👤 Author   
+## Author   
 
-**Md. Sirajul Islam**   
+**Md. Sirajul Islam**  
 - [linkedin.com/in/md-sirajul-islam57](https://linkedin.com/in/md-sirajul-islam57)   
 - [github.com/sirajul-islam5](https://github.com/sirajul-islam5)   
 
 ---
 
-## 📄 License   
+## License   
 
 This repository is open source and available under the [MIT License](LICENSE).   
 
