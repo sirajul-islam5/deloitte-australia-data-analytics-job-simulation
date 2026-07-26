@@ -1,6 +1,6 @@
 # Deloitte Australia — Data Analytics Job Simulation   
 
-A virtual job simulation completed on Deloitte Australia's program, covering two real-world data analytics tasks: building an interactive Tableau dashboard to analyze factory machine downtime, and classifying gender pay equality scores across job roles using Excel formula logic.   
+A virtual job simulation completed on Deloitte Australia's program, covering two real-world data analytics tasks: building an interactive Tableau dashboard to analyze factory machine downtime, and classifying gender pay equality scores across job roles using Excel formula logic.    
 
 ---
 
